@@ -1,0 +1,90 @@
+<section id="pricing_plans">
+        <p class="h1">Pricing Plans</p>
+        <div class="card-deck mb-1 text-center">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm">
+                <div class="card mb-4 box-shadow">
+                  <div class="card-header">
+                    <h4 class="my-0 font-weight-normal">OFF-PEAK</h4>
+                  </div>
+                  <div class="card-body">
+                    <h1 class="card-title pricing-card-title">
+                      £15 <small class="text-muted">/ mo</small>
+                    </h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                      <li>Access limit to off-peakhours</li>
+                      <li>Book classes 8 days in advance</li>
+                      <li>-</li>
+                      <li>-</li>
+                      <li>-</li>
+                    </ul>
+                    <button
+                      type="button"
+                      class="btn btn-lg btn-block btn-primary"
+                      data-bs-toggle="modal"
+                      data-bs-target="#exampleModal"
+                    >
+                      Choose a gym
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm">
+                <div class="card mb-4 box-shadow">
+                  <div class="card-header">
+                    <h4 class="my-0 font-weight-normal">CORE</h4>
+                  </div>
+                  <div class="card-body">
+                    <h1 class="card-title pricing-card-title">
+                      £20 <small class="text-muted">/ mo</small>
+                    </h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                      <li>Unrestricted 24/7 access</li>
+                      <li>Book classes 8 days in advance</li>
+                      <li>Multiple gym access from £2</li>
+                      <li>Bolt ons available</li>
+                      <li>-</li>
+                    </ul>
+                    <button
+                      type="button"
+                      class="btn btn-lg btn-block btn-primary"
+                      data-bs-toggle="modal"
+                      data-bs-target="#exampleModal"
+                    >
+                      Choose a gym
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm">
+                <div class="card mb-4 box-shadow">
+                  <div class="card-header">
+                    <h4 class="my-0 font-weight-normal">PLUS</h4>
+                  </div>
+                  <div class="card-body">
+                    <h1 class="card-title pricing-card-title">
+                      £26 <small class="text-muted">/ mo</small>
+                    </h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                      <li>Unrestricted 24/7 access</li>
+                      <li>Book classes 8 days in advance</li>
+                      <li>Includes multiple gym access</li>
+                      <li>Bring a guest 4 times a month</li>
+                      <li>Freeze at no additional cost</li>
+                    </ul>
+                    <button
+                      type="button"
+                      class="btn btn-lg btn-block btn-primary"
+                      data-bs-toggle="modal"
+                      data-bs-target="#exampleModal"
+                    >
+                      Choose a gym
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
